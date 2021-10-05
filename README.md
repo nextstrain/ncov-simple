@@ -1,4 +1,6 @@
-**This repository currently serves as a sandbox to explore how our main [ncov workflow](github.com/nextstrain/ncov) could restructured and simplified. Feel free to use it, but don't expect continuity or extensive documentation at this point.**
+🚨⚠️ Go to [**neherlab/ncov-simple**](https://github.com/neherlab/ncov-simple/) for an actively maintained version of this workflow. You're currently viewing `nextstrain/ncov-simple` which is many commits behind the `neherlab` fork. ⚠️🚨
+
+*This repository currently serves as a sandbox to explore how our main [ncov workflow](github.com/nextstrain/ncov) could restructured and simplified. Feel free to use it, but don't expect continuity or extensive documentation at this point.*
 
 ## Simplified nextstrain/ncov (SARS-CoV-2) workflow using reference data sets
 
